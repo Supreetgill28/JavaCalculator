@@ -1,2 +1,2 @@
 # JavaCalculator
-My first GitHub repository . A simple calculator built with java.
+My first GitHub repository . This is a simple yet powerful calculator built with java.
